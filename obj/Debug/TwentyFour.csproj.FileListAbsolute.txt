@@ -1,0 +1,7 @@
+C:\Users\Dan\Source\Repos\TwentyFour\TwentyFour\bin\Debug\TwentyFour.exe.config
+C:\Users\Dan\Source\Repos\TwentyFour\TwentyFour\bin\Debug\TwentyFour.exe
+C:\Users\Dan\Source\Repos\TwentyFour\TwentyFour\bin\Debug\TwentyFour.pdb
+C:\Users\Dan\Source\Repos\TwentyFour\TwentyFour\obj\Debug\TwentyFour.csprojAssemblyReference.cache
+C:\Users\Dan\Source\Repos\TwentyFour\TwentyFour\obj\Debug\TwentyFour.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Source\Repos\TwentyFour\TwentyFour\obj\Debug\TwentyFour.exe
+C:\Users\Dan\Source\Repos\TwentyFour\TwentyFour\obj\Debug\TwentyFour.pdb
